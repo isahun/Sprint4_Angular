@@ -49,7 +49,7 @@ The project includes several key files and directories:
 * `angular.json`: Global configuration for the Angular workspace.
 * `package.json`: Manages the project's dependencies and execution scripts.
 * `src/app/app.component.html`: Defines the layout of the root component.  
-
+---  
 
 ##### Author Irene V. Sahun - GitHub: isahun 
 
