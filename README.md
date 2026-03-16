@@ -1,4 +1,4 @@
-# My First Angular Project - Sprint 4
+# My First Angular Project - Sprint 4.01
 
 This repository contains the first Angular application developed as part of the Sprint 4 curriculum. The focus of this activity was to set up a modern development environment and initialize a basic Angular project using the Command Line Interface (CLI).
 
