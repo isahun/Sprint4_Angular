@@ -63,8 +63,8 @@ The project follows a streamlined file naming convention:
    `cd meu-primer-angular`
 2. Start the development server:
    `ng serve --open`
-
-The application will be served at `http://localhost:4200/`.
+   
+   The application will be served at `http://localhost:4200/`.
 ---
 
 
